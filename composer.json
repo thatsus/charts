@@ -3,7 +3,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/thatsus/charts"
+            "url": "https://github.com/thatsus/charts.git"
         }
     ]
 }
