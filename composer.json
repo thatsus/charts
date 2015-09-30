@@ -1,1 +1,9 @@
-
+{
+    "name": "thatsus/charts",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/thatsus/charts"
+        }
+    ]
+}
